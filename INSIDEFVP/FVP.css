@@ -1,0 +1,547 @@
+*{
+    margin: 0px;
+    /* background-color: grey; */
+    
+}
+
+.nav{
+    height: 10vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.nav2{
+    display: flex;
+}
+
+.nav2c{
+    padding: 20px;
+}
+
+
+.logo{
+    height: 41px;
+    width: 140px;
+    margin: 20px;
+}
+
+.dd{
+    height: 15px;
+    width: 10px;
+}
+
+.drone_img{
+    height: 250px;
+    width: 250px;
+    padding-right: 70px;
+}
+
+.text{
+    margin-left: 70px;
+    margin-top: 30px;
+    background-color: plum;
+}
+
+.sec1{
+  
+    display: flex;
+}
+
+.img1{
+    padding-right: 50px;
+    padding-left: 50px; 
+}
+
+.sec2{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+}
+
+.sec3{
+   height:70vh ;
+   width:100vw ;
+}
+/* 
+.vid{ 
+    height: 550px;
+    width: 150px ;
+    margin: 40px;
+    border-radius: 20%;
+
+} */
+
+.vid{
+   
+    margin-left: 500px; 
+    border-radius: 20%;
+}
+
+.btn{
+    border-radius: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.btnlm{
+    display: flex;
+    border-radius: 40px;
+   
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 38px;
+    padding: 40px;
+    width: 400px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-left: 34vw;
+}
+
+
+
+.textt{
+    margin-left: 50px;
+    color: white;
+    font-size: 60px;
+    margin-top: -392px;
+    padding-top: 82px;
+    font-weight: bold;
+
+}
+
+
+.texttt{
+    margin-left: 50px;
+    color: white;
+    font-size: 60px;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: bold;
+
+}
+
+.sec4{
+    /* background-image: url("https://insidefpv.com/cdn/shop/files/Elevate_Kuch_bhi.jpg?v=1706269877&width=1400"); */
+    height:45vh ;
+    width: 100vw;
+    
+}
+
+
+.sec5{
+    height: 600px;
+    width: 80vw ;
+    background-color: white;
+   
+    margin-top: 150px;
+    margin-left: 150px; 
+    margin-right: 150px;
+    border-radius: 10pc;
+}
+
+.BSD{
+    display: flex;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -547px; 
+    /* margin-top: 100px; */
+    /* padding-top: 60px; */
+    margin-left: 180px; 
+    background-color: white;
+    width: 75vw;
+}
+.bsdimg{
+    margin-left: 140px;
+}
+
+.BSDT{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    /* margin-top: 90px; */
+    /* padding-left: 400px; */
+    background-color: white;
+    width: 500vw;
+}
+
+.BSDTT{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    /* margin-top: 90px; */
+    padding-left: 400px;
+    background-color: white;
+    width: 112vw;
+}
+
+.sec6{
+     display: flex; 
+   
+    margin-left: 45px;
+    margin-top: 90px; 
+}
+
+.icon{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    /* padding-left: 100px; */
+    border-radius: 50%;
+    /* margin-top: 500px; */
+    margin-left: 60px;
+}
+
+
+.txt{
+    margin-top: 26px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.txtt{
+    font-size: 20px;
+    padding-top: 30px;
+    width: 200px;
+    font-weight: bold;
+}
+
+.txtb2{
+    margin-top: 26px;
+    width: 298px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.txttb2{
+    font-size: 20px;
+    padding-top: 30px;
+    width: 238px;
+    font-weight: bold;
+}
+
+.txtb3{
+    margin-top: 26px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.txttb3{
+    font-size: 20px;
+    padding-top: 30px;
+    width: 252px;
+    font-weight: bold;
+}
+
+.txtb4{
+    margin-top: 26px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.txttb4{
+    font-size: 20px;
+    padding-top: 30px;
+    width: 300px;
+    font-weight: bold;
+}
+
+.txtb5{
+    margin-top: 26px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.txttb5{
+    font-size: 20px;
+    padding-top: 30px;
+    width: 250px;
+    font-weight: bold;
+}
+
+.OS{
+    background-color: white;
+    /* height: 100vh; */
+    width: 80vw;
+    border-radius: 5cap;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.ost{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: 160px;
+    background-color: white;
+    width: 70vw;
+}
+
+.sec8{
+    display: flex;
+    
+  
+}
+
+.d{
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 350px;
+    padding-left: 100px;
+}
+
+.ddd{
+    font-size: 80px;
+    font-weight: bold;
+    width: 800px;
+    height: 80px;
+     padding-left: 100px; 
+}
+
+.btnn{
+    border-radius: 40px;
+    background-color: black;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 100px;  
+}
+
+.ctb{
+    font-size: 60px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.options{
+    height: 150vh;
+    width: 80vw;
+    background-color: white;
+    border-radius: 5pc;
+    margin-left: 150px;
+}
+
+.ph{
+    display: flex;
+    padding-left: 316px;
+    margin-top: -900px;
+    background-color: #FFFFFF;
+    width: 80vw;
+
+}
+
+.view_btn{
+    border-radius: 40px;
+    background-color: black;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 100px;    
+}
+
+.t{
+    background-color: #FFFFFF;
+    font-size: 30px;
+    width: 300px;
+}
+
+.d1{
+    background-color: #FFFFFF;
+    padding-right: 100px;
+}
+
+.d2{
+    background-color: #FFFFFF;
+    padding-right: 50px;
+}
+
+.d3{
+    background-color: #FFFFFF;
+}
+
+.con{
+    display: flex;
+}
+
+.OA{
+    font-size: 40px;
+    font-weight: bold;
+    width: 100px;
+    margin-left: 90px;
+}
+
+.OAT{
+    margin-left: 200px;
+    font-size: 25px;
+    margin-top: 20px;
+    padding-right: 40px;
+}
+
+.OATT{
+    margin-left: 146px;
+    font-size: 25px;
+    margin-top: 20px;
+    padding-right: 40px;
+}
+
+.OATTT{
+    margin-left: 275px;
+    font-size: 25px;
+    margin-top: 20px;
+    padding-right: 40px;
+}
+
+.VA{
+    margin-left: 40vw;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+/* .sliders{
+    width: ;
+    margin: auto;
+    position: relative; 
+    overflow: hidden;
+}
+
+.slide{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transition: 1s;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav button{
+
+} */
+
+.channels{
+    display: flex;
+    margin-top: 100px;
+}
+
+.chat_btn{
+    border-radius: 40px;
+    background-color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 100px;   
+}
+
+.HQ{
+    /* background-color: aqua; */
+    height: 600px;
+    width: 40vw;
+    margin-left: 5vw;
+    margin-right: 50px;
+}
+
+.Q{
+    /* background-color: greenyellow; */
+    height: 600px;
+    width: 30vw;
+    
+} 
+
+/* .Q{
+    background-color: greenyellow;
+    height: 600px;
+    width: 100vw;
+    
+}  */
+
+.footer{
+    margin-left: 70px;
+    margin-top: 100px;
+    display: flex;
+}
+
+.f1{
+    height: 100px;
+    width: 60px;
+    font-size: 20px;
+    color: rgb(113, 113, 113);
+    font-weight: bold;
+}
+
+.f2{
+    height: 100px;
+    width: 241px;
+    padding-left: 150px;
+}
+
+.f3{
+    height: 100px;
+    width: 241px;
+    padding-left: 60px;
+}
+
+.f4{
+    height: 100px;
+    width: 241px;
+    padding-left: 50px;
+}
+
+.f5{
+    height: 100px;
+    width: 241px;
+    padding-left: 50px;
+}
+
+.f20_social{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    padding: 20px;
+    margin-top: 300px;
+    margin-left: 40px;
+    
+
